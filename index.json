@@ -1,10 +1,12 @@
 {
 "files": [
+"README.md",
 "core/manifest.json",
 "core/ndu.glb",
 "core/ndu_collision.json",
 "core/ndu_entities.json",
 "core/ndu_waypoints.json",
+"core/nzp_manifest.json",
 "core/props.glb",
 "core/weapons.glb",
 "core/zombie.glb",
@@ -35,6 +37,7 @@
 "hud/r_num9.png",
 "hud/revive_icon.png",
 "hud/scope.png",
+"index.json",
 "sounds/ambience_amb_loop.mp3",
 "sounds/ambience_echoes.mp3",
 "sounds/machines_mbox_close.mp3",
